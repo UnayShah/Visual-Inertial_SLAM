@@ -37,13 +37,13 @@ The task is to perform SLAM on the data provided to correct landmark positions a
 The following results were obtained for dataset 10. The actual visual inertial SLAM results are incorrect, and require tuning in the updation step.
 
 For dead reckoning:
-
+![Dead Reckoning for Dataset 10](https://github.com/UnayShah/Visual-Inertial_SLAM/blob/master/outputs/dead_reckoning_dataset_10.png)
 
 For Landmark Mapping with EKF:
-
+![Landmark Mapping for Dataset 10](https://github.com/UnayShah/Visual-Inertial_SLAM/blob/master/outputs/landmark_mapping_dataset_10.png)
 
 For Visual Inertial SLAM:
-
+![Visual SLAM for Dataset 10](https://github.com/UnayShah/Visual-Inertial_SLAM/blob/master/outputs/visual_inertial_slam_dataset_10.png)
 
 ## References:
 * [Kalman Filter]('https://natanaso.github.io/ece276a/ref/ECE276A_9_KalmanFilter.pdf#page=12')
